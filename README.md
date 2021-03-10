@@ -7,11 +7,13 @@ The main purpose of this project was to use generate 2D/3D objects using OpenGL 
 Implemented Things like
 * Phong Shading
 * Texture Mapping
+* Bresenham's Line Algorithm
 >TBA
 
 ### Includes
 * Lab 1: Implement Phong's illumination model into OpenGl's shaders
 * Lab 2: Shading with textures 
+* Lab 3: Implement midpoint algorithm to draw continous lines
 
 #### Some Tests 
 *Lab1: Monkey Object -> Shading*
@@ -22,6 +24,11 @@ Implemented Things like
 
 
 <img width="200" src="https://user-images.githubusercontent.com/62925991/107716020-548e6380-6c85-11eb-8b2d-a89f1d05fcdc.png"> <img width="200" src="https://user-images.githubusercontent.com/62925991/107716016-522c0980-6c85-11eb-8515-5ff15687f548.png"> <img width="200" src="https://user-images.githubusercontent.com/62925991/107715965-31fc4a80-6c85-11eb-88e4-c5088589b315.png">
+
+
+*Lab3: Controls w/ speeds -> MPA 1,000 Line Output*
+
+<img width="300" src="https://user-images.githubusercontent.com/62925991/110596035-aa92e180-8133-11eb-994e-36eb15a7faa6.png"> <img width="300" src="https://user-images.githubusercontent.com/62925991/110596019-a5ce2d80-8133-11eb-951e-e397c67e391d.png">
 
 
 ## Usage
