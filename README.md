@@ -8,12 +8,14 @@ Implemented Things like
 * Phong Shading
 * Texture Mapping
 * Bresenham's Line Algorithm
+* Bézier Curves
 >TBA
 
 ### Includes
 * Lab 1: Implement Phong's illumination model into OpenGl's shaders
 * Lab 2: Shading with textures 
 * Lab 3: Implement midpoint algorithm to draw continous lines
+* Lab 4: Render an approximation of a parametric curve between 2 control points
 
 #### Some Tests 
 *Lab1: Monkey Object -> Shading*
@@ -29,6 +31,10 @@ Implemented Things like
 *Lab3: Controls w/ speeds -> MPA 1,000 Line Output*
 
 <img width="300" src="https://user-images.githubusercontent.com/62925991/110596035-aa92e180-8133-11eb-994e-36eb15a7faa6.png"> <img width="300" src="https://user-images.githubusercontent.com/62925991/110596019-a5ce2d80-8133-11eb-951e-e397c67e391d.png">
+
+*Lab4: Curve -> Curve*
+
+<img width="270" src="https://user-images.githubusercontent.com/62925991/110845138-1b82e800-825f-11eb-8265-09288e016da2.png"> <img width="300" src="https://user-images.githubusercontent.com/62925991/110845143-1c1b7e80-825f-11eb-9e66-841e24dce25c.png">  
 
 
 ## Usage
