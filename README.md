@@ -9,13 +9,15 @@ Implemented Things like
 * Texture Mapping
 * Bresenham's Line Algorithm
 * Bézier Curves
->TBA
+* Particle Simulations
+
 
 ### Includes
 * Lab 1: Implement Phong's illumination model into OpenGl's shaders
 * Lab 2: Shading with textures 
 * Lab 3: Implement midpoint algorithm to draw continous lines
 * Lab 4: Render an approximation of a parametric curve between 2 control points
+* Lab 5: Render a volcano with Eulers formula and Force dynamics
 
 #### Some Tests 
 *Lab1: Monkey Object -> Shading*
@@ -35,6 +37,14 @@ Implemented Things like
 *Lab4: Curve -> Curve*
 
 <img width="270" src="https://user-images.githubusercontent.com/62925991/110845138-1b82e800-825f-11eb-8265-09288e016da2.png"> <img width="300" src="https://user-images.githubusercontent.com/62925991/110845143-1c1b7e80-825f-11eb-9e66-841e24dce25c.png">  
+
+*Lab5: Beginning Volcano -> Volcano After Time -> Video*
+
+<img width="300" src="https://user-images.githubusercontent.com/62925991/111573820-77220980-8768-11eb-80ae-b6062b342a6f.png"> <img width="300" src="https://user-images.githubusercontent.com/62925991/111573826-78533680-8768-11eb-90e7-af0f480eee78.png">
+
+![demo](https://user-images.githubusercontent.com/62925991/111574072-016a6d80-8769-11eb-952a-c7c6fdf8efdd.mp4)
+
+
 
 
 ## Usage
